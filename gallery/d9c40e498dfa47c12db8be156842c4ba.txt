@@ -1,0 +1,9 @@
+# A tibble: 6 x 3
+                   cnt        m place
+                <fctr>    <dbl> <dbl>
+1              Albania 395.2962    58
+2 United Arab Emirates 431.3736    51
+3            Argentina 395.4022    57
+4            Australia 492.8429    26
+5              Austria 507.7118    18
+6              Belgium 519.8689    12
